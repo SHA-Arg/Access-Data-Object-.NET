@@ -1,0 +1,44 @@
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.exe
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.deps.json
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.runtimeconfig.json
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.pdb
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.csproj.AssemblyReference.cache
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.AssemblyInfoInputs.cache
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.AssemblyInfo.cs
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.csproj.CoreCompileInputs.cache
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.csproj.CopyComplete
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\refint\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.pdb
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.genruntimeconfig.cache
+C:\Users\SHA\Documents\Cursos de C#\Jugando con C#\bin\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\ref\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.exe
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.deps.json
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.runtimeconfig.json
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\AccessDataObjectNET.pdb
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.csproj.AssemblyReference.cache
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.AssemblyInfoInputs.cache
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.AssemblyInfo.cs
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.csproj.CoreCompileInputs.cache
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.csproj.CopyComplete
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\refint\AccessDataObjectNET.dll
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.pdb
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\AccessDataObjectNET.genruntimeconfig.cache
+C:\Users\SHA\Documents\Cursos de C#\AccessDataObjectNET\AccessDataObjectNET\obj\Debug\net6.0\ref\AccessDataObjectNET.dll
